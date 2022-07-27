@@ -1,0 +1,1 @@
+class Frame83Model { }

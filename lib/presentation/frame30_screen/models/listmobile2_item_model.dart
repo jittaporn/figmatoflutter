@@ -1,0 +1,1 @@
+class Listmobile2ItemModel { }

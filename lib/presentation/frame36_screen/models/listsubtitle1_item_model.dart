@@ -1,0 +1,1 @@
+class Listsubtitle1ItemModel { }
