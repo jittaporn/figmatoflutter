@@ -1,0 +1,1 @@
+class Listdhi305ItemModel { }
