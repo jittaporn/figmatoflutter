@@ -37,3 +37,11 @@ flutter:
           weight: 800
         - asset: assets/fonts/MontserratMedium.ttf
           weight: 500
+    - 
+      family: "DB HelvethaicaMon X"
+      fonts: 
+        - 
+          asset: "assets/fonts/DB HelvethaicaMon X Med v3.2.ttf"
+          style: "normal"
+          weight: 600
+
